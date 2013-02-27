@@ -1,8 +1,7 @@
 Win8 Enhanced Controls
 ============
 
-New controls of Windows 8 (c#)
-Sugar UI is designed for developers. This set includes two customised control styles and one refined control，Sweet and Solid. Sweet, the two customised control styles has its own personality， as well as Window 8 store App style. The dark version and the light fits various colour themes. Solid，the refined control more focuses on common features，which aims to shorter development time.  Those UI has creative visual elements，and provides fluent interactions，and friendly user experience. For different apps and different resolutions，it also works very well.
+
 
 
 
@@ -11,6 +10,11 @@ Pinboard
  * No need to struggle with layouts. With lever pinboard, what you need to do is to link your data.
  * For various screen with different resolutions ratio，the layout would be automaticlly changed and formed to fit the resolution. How easy it is !
 
+
+
+Navigation
+=====
+ * Facing complicated navigation system，how could we handle it? Top Bar Navigation would perfectly clear this problem for you. Neat interaction，and fluent folding animation will surprise you a lot.
 
 Knob
 =====
