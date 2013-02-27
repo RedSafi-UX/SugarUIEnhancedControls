@@ -7,7 +7,7 @@ Sugar UI is designed for developers. This set includes two customised control st
 
 
 Pinboard
-
+=====
  * No need to struggle with layouts. With lever pinboard, what you need to do is to link your data.
  * For various screen with different resolutions ratio，the layout would be automaticlly changed and formed to fit the resolution. How easy it is !
 
